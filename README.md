@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="left">I'm a systems development student and I work as a data analyst</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lucashdev&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lucashdev=anuraghazra&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lucashdev&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashdev&layout=compact)
 
 - 📫 How to reach me **lucasthdf@gmail.com**
 
